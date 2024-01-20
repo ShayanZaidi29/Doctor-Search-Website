@@ -1,0 +1,1011 @@
+.home-page {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  background-color: #e5effc;
+  overflow: hidden;
+}
+
+.home-page .rectangle {
+  position: absolute;
+  width: 11px;
+  height: 67px;
+  top: 1493px;
+  left: 3035px;
+}
+
+.home-page .overlap {
+  position: absolute;
+  width: 259px;
+  height: 901px;
+  top: 10px;
+  left: 5px;
+  background-color: #086fe1;
+  border-radius: 42px;
+}
+
+.home-page .text-wrapper {
+  position: absolute;
+  width: 144px;
+  top: 263px;
+  left:400px;
+  font-family: "Times New Roman-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page p strong {
+  font-weight: bold;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.home-page .div {
+  position: absolute;
+  width: 159px;
+  top: 274px;
+  left: 58px;
+  font-family: "Times New Roman-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-2 {
+  position: absolute;
+  width: 159px;
+  top: 336px;
+  left: 58px;
+  font-family: "Times New Roman-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-3 {
+  position: absolute;
+  width: 159px;
+  top: 401px;
+  left: 58px;
+  font-family: "Times New Roman-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-4 {
+  position: absolute;
+  width: 159px;
+  top: 712px;
+  left: 58px;
+  font-family: "Times New Roman-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-5 {
+  position: absolute;
+  width: 159px;
+  top: 770px;
+  left: 58px;
+  font-family: "Times New Roman-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-6 {
+  position: absolute;
+  width: 159px;
+  top: 821px;
+  left: 58px;
+  font-family: "Times New Roman-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-7 {
+  position: absolute;
+  width: 152px;
+  top: 155px;
+  left: 58px;
+  font-family: "Times New Roman-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+
+
+.home-page .text-wrapper-8 {
+  position: absolute;
+  width: 144px;
+  top: 216px;
+  left: 58px;
+  font-family: "Times New Roman-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-9 {
+  position: absolute;
+  width: 136px;
+  top: 19px;
+  left: 78px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 1.2px;
+  line-height: normal;
+}
+
+.home-page .overlap-group {
+  position: absolute;
+  width: 231px;
+  height: 44px;
+  top: 85px;
+  left: 19px;
+  background-color: #3e99ff;
+  border-radius: 17px;
+}
+
+.home-page .text-wrapper-10 {
+  position: absolute;
+  width: 112px;
+  top: 7px;
+  left: 47px;
+  font-family: "Times New Roman-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .image {
+  width: 34px;
+  height: 33px;
+  top: 822px;
+  left: 18px;
+  mix-blend-mode: luminosity;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .img {
+  width: 27px;
+  height: 33px;
+  top: 765px;
+  left: 19px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .image-2 {
+  width: 27px;
+  height: 33px;
+  top: 713px;
+  left: 21px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .image-3 {
+  width: 35px;
+  height: 34px;
+  top: 397px;
+  left: 13px;
+  mix-blend-mode: lighten;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .image-4 {
+  width: 35px;
+  height: 48px;
+  top: 322px;
+  left: 13px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .image-5 {
+  width: 36px;
+  height: 41px;
+  top: 266px;
+  left: 12px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .image-7 {
+  width: 36px;
+  height: 41px;
+  top: 209px;
+  left: 11px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .image-8 {
+  width: 29px;
+  height: 36px;
+  top: 155px;
+  left: 15px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .overlap-2 {
+  position: absolute;
+  width: 452px;
+  height: 82px;
+  top: 590px;
+  left: 1420px;
+  background-image: url(./img/rectangle-5.svg);
+  background-size: 100% 100%;
+}
+
+.home-page .text-wrapper-11 {
+  position: absolute;
+  width: 129px;
+  top: 21px;
+  left: 93px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-12 {
+  position: absolute;
+  width: 139px;
+  top: 43px;
+  left: 94px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0.4px;
+  line-height: normal;
+}
+
+.home-page .image-9 {
+  width: 49px;
+  height: 56px;
+  top: 13px;
+  left: 27px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .overlap-3 {
+  position: absolute;
+  width: 452px;
+  height: 82px;
+  top: 705px;
+  left: 1420px;
+  background-image: url(./img/rectangle-5.svg);
+  background-size: 100% 100%;
+}
+
+.home-page .text-wrapper-13 {
+  position: absolute;
+  width: 181px;
+  top: 15px;
+  left: 94px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-14 {
+  width: 139px;
+  top: 45px;
+  left: 94px;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0.4px;
+  position: absolute;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.home-page .image-10 {
+  width: 55px;
+  height: 56px;
+  top: 7px;
+  left: 23px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .overlap-4 {
+  position: absolute;
+  width: 452px;
+  height: 82px;
+  top: 823px;
+  left: 1420px;
+  background-color: #ffffff;
+  border-radius: 23px;
+}
+
+.home-page .text-wrapper-15 {
+  position: absolute;
+  width: 181px;
+  top: 18px;
+  left: 91px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-16 {
+  width: 139px;
+  top: 49px;
+  left: 93px;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0.4px;
+  position: absolute;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.home-page .image-11 {
+  width: 55px;
+  height: 56px;
+  top: 14px;
+  left: 23px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .overlap-5 {
+  position: absolute;
+  width: 452px;
+  height: 82px;
+  top: 935px;
+  left: 1420px;
+  background-color: #ffffff;
+  border-radius: 23px;
+}
+
+.home-page .text-wrapper-17 {
+  position: absolute;
+  width: 181px;
+  top: 17px;
+  left: 94px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-18 {
+  width: 139px;
+  top: 48px;
+  left: 93px;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0.4px;
+  position: absolute;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.home-page .image-12 {
+  width: 54px;
+  height: 56px;
+  top: 16px;
+  left: 22px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .text-wrapper-19 {
+  position: absolute;
+  width: 189px;
+  top: 518px;
+  left: 1441px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0.96px;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-20 {
+  position: absolute;
+  width: 165px;
+  top: 553px;
+  left: 1441px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0.56px;
+  line-height: normal;
+}
+
+.home-page .overlap-6 {
+  position: absolute;
+  width: 524px;
+  height: 568px;
+  top: 495px;
+  left: 822px;
+  background-color: #ffffff;
+  border-radius: 22px;
+}
+
+.home-page .a-new-way-to-ensure {
+  position: absolute;
+  width: 401px;
+  top: 124px;
+  left: 73px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .image-13 {
+  width: 376px;
+  height: 197px;
+  top: 280px;
+  left: 80px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .overlap-7 {
+  position: absolute;
+  width: 167px;
+  height: 42px;
+  top: 210px;
+  left: 198px;
+}
+
+.home-page .rectangle-2 {
+  position: absolute;
+  width: 142px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  background-color: #c6e1fd;
+  border-radius: 33px;
+}
+
+.home-page .text-wrapper-21 {
+  position: absolute;
+  width: 146px;
+  top: 3px;
+  left: 21px;
+  mix-blend-mode: hard-light;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #080d27;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .overlap-8 {
+  position: absolute;
+  width: 505px;
+  height: 568px;
+  top: 495px;
+  left: 299px;
+  background-color: #ffffff;
+  border-radius: 38px;
+}
+
+.home-page .image-14 {
+  width: 368px;
+  height: 338px;
+  top: 52px;
+  left: 53px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .text-wrapper-22 {
+  position: absolute;
+  width: 234px;
+  top: 467px;
+  left: 126px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-23 {
+  position: absolute;
+  width: 119px;
+  top: 515px;
+  left: 192px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #086fe1;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.home-page .overlap-group-2 {
+  position: absolute;
+  width: 1048px;
+  height: 360px;
+  top: 118px;
+  left: 298px;
+}
+
+.home-page .rectangle-3 {
+  position: absolute;
+  width: 1047px;
+  height: 466px;
+  top: 0;
+  left: 1px;
+  background-color: #ffffff;
+  border-radius: 21px;
+  margin-top: -106px;
+}
+
+.home-page .image-15 {
+  width: 164px;
+  height: 326px;
+  top: 17px;
+  left: 824px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .p {
+  position: absolute;
+  width: 558px;
+  top: 26px;
+  left: 46px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 1.6px;
+  line-height: normal;
+}
+
+.home-page .image-16 {
+  width: 745px;
+  height: 239px;
+  top: 121px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .rectangle-4 {
+  position: absolute;
+  width: 193px;
+  height: 50px;
+  top: 100px;
+  left: 157px;
+}
+
+.home-page .text-wrapper-24 {
+  position: absolute;
+  top: 113px;
+  left: 171px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+}
+
+.home-page .overlap-9 {
+  position: absolute;
+  width: 501px;
+  height: 360px;
+  top: 50px;
+  left: 1371px;
+  background-color: #ffffff;
+  border-radius: 12px;
+}
+
+.home-page .image-17 {
+  width: 24px;
+  height: 22px;
+  top: 13px;
+  left: 463px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .text-wrapper-25 {
+  position: absolute;
+  width: 179px;
+  top: 230px;
+  left: 163px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #086fe1;
+  font-size: 15px;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.home-page .overlap-10 {
+  position: absolute;
+  width: 201px;
+  height: 60px;
+  top: 158px;
+  left: 176px;
+}
+
+.home-page .overlap-11 {
+  position: absolute;
+  width: 201px;
+  height: 60px;
+  top: 0;
+  left: 0;
+}
+
+.home-page .text-wrapper-26 {
+  position: absolute;
+  width: 192px;
+  top: 0;
+  left: 9px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0.6px;
+  line-height: normal;
+}
+
+.home-page .image-18 {
+  width: 34px;
+  height: 37px;
+  top: 23px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .text-wrapper-27 {
+  position: absolute;
+  width: 119px;
+  top: 31px;
+  left: 37px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #605555;
+  font-size: 15px;
+  letter-spacing: 0.6px;
+  line-height: normal;
+}
+
+.home-page .overlap-12 {
+  position: absolute;
+  width: 472px;
+  height: 65px;
+  top: 279px;
+  left: 11px;
+  background-image: url(./img/rectangle-15.svg);
+  background-size: 100% 100%;
+}
+
+.home-page .text-wrapper-28 {
+  position: absolute;
+  width: 102px;
+  top: 12px;
+  left: 42px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #086fe1;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-29 {
+  position: absolute;
+  width: 92px;
+  top: 12px;
+  left: 208px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #086fe1;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-30 {
+  position: absolute;
+  width: 92px;
+  top: 12px;
+  left: 348px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #086fe1;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-31 {
+  position: absolute;
+  width: 105px;
+  top: 38px;
+  left: 42px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #086fe1;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-32 {
+  width: 96px;
+  top: 38px;
+  left: 210px;
+  color: #086fe1;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-33 {
+  position: absolute;
+  width: 96px;
+  top: 38px;
+  left: 348px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #086fe1;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .group {
+  position: absolute;
+  width: 105px;
+  height: 110px;
+  top: 32px;
+  left: 189px;
+  background-color: #def2f0;
+  border-radius: 52.5px/55px;
+}
+
+.home-page .image-19 {
+  width: 79px;
+  height: 101px;
+  top: 5px;
+  left: 13px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .overlap-13 {
+  position: absolute;
+  width: 1573px;
+  height: 84px;
+  top: 17px;
+  left: 299px;
+  background-color: #ffffff;
+  border-radius: 29px;
+}
+
+.home-page .image-20 {
+  width: 44px;
+  height: 45px;
+  top: 18px;
+  left: 1511px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .overlap-14 {
+  position: absolute;
+  width: 348px;
+  height: 59px;
+  top: 9px;
+  left: 1083px;
+  background-color: #f5e8e8d1;
+  border-radius: 19px;
+}
+
+.home-page .line {
+  position: absolute;
+  width: 1px;
+  height: 59px;
+  top: 0;
+  left: 181px;
+  object-fit: cover;
+}
+
+.home-page .text-wrapper-34 {
+  position: absolute;
+  width: 119px;
+  top: 19px;
+  left: 226px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0.6px;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-35 {
+  position: absolute;
+  width: 138px;
+  top: 20px;
+  left: 42px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0.52px;
+  line-height: normal;
+}
+
+.home-page .image-21 {
+  width: 19px;
+  height: 25px;
+  top: 17px;
+  left: 18px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .image-22 {
+  width: 31px;
+  height: 38px;
+  top: 10px;
+  left: 191px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .image-23 {
+  width: 55px;
+  height: 52px;
+  top: 18px;
+  left: 20px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.home-page .text-wrapper-36 {
+  position: absolute;
+  width: 91px;
+  top: 21px;
+  left: 105px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 1.2px;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-37 {
+  position: absolute;
+  width: 131px;
+  top: 23px;
+  left: 240px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 1.2px;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-38 {
+  position: absolute;
+  width: 214px;
+  top: 23px;
+  left: 418px;
+  font-family: "Tiro Tamil", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 1.2px;
+  line-height: normal;
+}
